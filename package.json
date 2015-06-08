@@ -1,8 +1,8 @@
 {
-  "name": "WeatherBot",
+  "name": "weatherbot",
   "version": "0.0.0",
   "private": true,
-  "author": "tolulope.awoyemi@andela.co",
+  "author": "Ezekiel",
   "description": "A weather robot",
   "dependencies": {
     "hubot": "^2.12.0",
